@@ -2,21 +2,21 @@
 Anime Builder projects images
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c44c999-8779-4923-ac43-f6b55a8fe37f" />
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/4c44c999-8779-4923-ac43-f6b55a8fe37f" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fee24266-aeb4-43ca-be1d-23629293a78f" />
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/fee24266-aeb4-43ca-be1d-23629293a78f" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbdc941e-422e-4912-a9af-975b3145adb6" />
-
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2c5aac1-6f4e-456c-8327-8716fa32a0f0" />
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/dbdc941e-422e-4912-a9af-975b3145adb6" />
 
 
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/a2c5aac1-6f4e-456c-8327-8716fa32a0f0" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3a94c65-607d-41af-8e98-20f6f70707c2" />
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/055647e2-99f1-4251-9092-b88dcae79d27" />
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/a3a94c65-607d-41af-8e98-20f6f70707c2" />
+
+
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/055647e2-99f1-4251-9092-b88dcae79d27" />
 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/77dc68b2-97bc-4bd9-9d29-af70f65a968a" />
